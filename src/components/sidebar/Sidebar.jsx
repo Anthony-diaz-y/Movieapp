@@ -50,7 +50,7 @@ export default function Sidebar() {
           {!isCollapsed && (
             <div className="flex items-center gap-2">
               <Film className="w-8 h-8 text-purple-500" />
-              <span className="text-white text-xl font-bold">WATCH</span>
+              <span className="text-white text-xl font-bold">Cinematrix</span>
             </div>
           )}
           
